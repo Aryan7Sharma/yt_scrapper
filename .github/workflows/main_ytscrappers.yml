@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ytscrappers'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A114183AE35B44C6ABF2C2FD3201DDA9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CAE93374199B4C0D98D9A793DAFE3E13 }}
